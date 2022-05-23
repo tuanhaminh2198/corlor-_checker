@@ -1,0 +1,52 @@
+#navbar {
+  position: relative;
+  left: 0vh;
+}
+
+#chooseColor_box  {
+  border-color: black;
+    border-width: medium;
+    border: solid;
+    border:solid black 2px;
+
+}
+
+.container h2{
+text-align: center;
+
+}
+.panel-body{
+  text-align: center;
+}
+#zoom_button{
+text-align: center;
+margin-top: 30px;
+}
+#reset_button{
+  margin-top: 30px;
+  text-align: center  ;
+}
+#activer{
+  border-color:black ;
+  border:solid 3px
+}
+span{
+   display: block;
+
+}
+button{
+  
+  height: 40px;
+  width: 80px;
+  margin-right: 10px;
+}
+button:hover{
+  background-color: cornsilk;
+}
+.active{
+    border-radius: 50%;
+    height: 40px;
+    width: 80px;
+    margin-right: 10px;
+
+}
